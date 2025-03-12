@@ -12,7 +12,8 @@ class Program
             "Milk",
             "Bread",
             "Eggs",
-            "Rice"
+            "Rice",
+            "Chicken"
         };
 
         // Displaying the grocery items
